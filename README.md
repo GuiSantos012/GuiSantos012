@@ -1,16 +1,20 @@
-### GuiSantos012 👋
+<h3 align="center"> Olá! Eu sou o Guilherme Santos 🔥 </h3>
 
-<!--
-**GuiSantos012/GuiSantos012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/guilherme-santos-barros-b1a170245/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  <a href="https://www.instagram.com/gui_santosb/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GuiSantos012&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GuiSantos012 github stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSantos012&layout=compact&langs_count=20&theme=dark" alt="GuiSantos012 top languages" height="180em" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">TECNOLOGIAS DO MEU DIA A DIA</h3>
+<p align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img alt="MY SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
