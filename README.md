@@ -11,7 +11,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GuiSantos012&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GuiSantos012 github stats" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSantos012&layout=compact&langs_count=20&theme=dark" alt="GuiSantos012 top languages" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSantos012&layout=donut&langs_count=20&theme=dark" alt="GuiSantos012 top languages" height="180em" />
 </p>
 
 <h3 align="center">TECNOLOGIAS DO MEU DIA A DIA</h3>
