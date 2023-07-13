@@ -1,4 +1,6 @@
 <h3 align="center"> Olá! Eu sou o Guilherme Santos 🔥 </h3>
+<hr>
+<h4>Atualmente estou fazendo uma graduação de Ciencia da Computação, e buscando entrar na area de desenvolvimento.</h4>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guilherme-santos-barros-b1a170245/">
