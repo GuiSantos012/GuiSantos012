@@ -2,6 +2,7 @@
 <hr>
 <div align="center">
 <h4>Atualmente estou cursando Ciencia da Computação e estou buscando ingressar na area de desenvolvimento.</h4>
+<h4>Desenvolvo aplicações simples e praticas buscando adquirir experiência</h4>
 <h4>Abaixo vou estar mostrando algumas tecnologias que trabalho e tenho conhecimento.</h4>
 </div>
 <hr>
