@@ -1,7 +1,7 @@
 <h3 align="center"> Olá! Eu sou o Guilherme Santos 🔥 </h3>
 <hr>
 <div align="center">
-<h4>Atualmente estou cursando Ciencia da Computação e estou buscando ingressar na area de desenvolvimento.</h4>
+<h4>Atualmente estou cursando Ciencia da Computação e estou buscando ingressar na area de desenvolvimento ou Analise de Dados.</h4>
 <h4>Desenvolvo aplicações simples e praticas buscando adquirir experiência e aumentar meu conhecimento</h4>
 </div>
 <hr>
