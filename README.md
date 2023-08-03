@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSantos012&layout=donut&langs_count=20&theme=dark" alt="GuiSantos012 top languages" height="180em" />
 </p>
 
-<h3 align="center">TECNOLOGIAS DO MEU DIA A DIA</h3>
+<h3 align="center">TECNOLOGIAS QUE TRABALHO E TENHO CONHECIMENTO</h3>
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img alt="MY SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </p>
