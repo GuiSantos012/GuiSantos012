@@ -7,7 +7,7 @@
 <hr>
 <h3 align="left"> INTERESSES! </h3>
 <h4>- Desenvolvimento de software e aplicações web.</h4>
-<h4>- Ciência de dados e aprendizado de máquina.</h4>
+<h4>- Ciência e Análise de dados e aprendizado de máquina.</h4>
 <h4>- Resolução de problemas e algoritmos.</h4>
 <h4>- Tecnologias de código aberto e contribuição para a comunidade.</h4>
 </div>
