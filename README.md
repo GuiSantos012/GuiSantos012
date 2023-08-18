@@ -1,4 +1,4 @@
-<h3 align="left"> Olá! 🔥 </h3>
+<h3 align="left"> Olá! </h3>
 <div align="left">
 <h4>Meu nome é Guilherme Santos e sou um apaixonado por tecnologia e estou em busca de uma carreira promissora no mundo da programação.</h4>
 <hr>
