@@ -1,6 +1,6 @@
 <h3 align="left"> Olá! </h3>
 <div align="left">
-<h4>Meu nome é Guilherme Santos e sou um apaixonado por tecnologia e estou em busca de uma carreira promissora no mundo do desenvolvimento e análise de Dados</h4>
+<h4>Meu nome é Guilherme Santos e sou um apaixonado por tecnologia e estou em busca de uma carreira promissora no mundo do desenvolvimento e Análise de Dados.</h4>
 <hr>
 <h3 align="left"> SOBRE MIM </h3>
 <h4>Atualmente estou cursando Ciência da Computação e desenvolvendo alguns projetos pessoais. Minha jornada na programação começou com curiosidade e muita vontade de aprender. Desde então, venho mergulhando em projetos e desafios que me permitem expandir meus conhecimentos e habilidades.</h4>
@@ -14,7 +14,7 @@
 <hr>
 <h3 align="left">CONHECIMENTOS</h3>
 <p align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img alt="MY SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img alt="Bootstrap" src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)"> <img alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img alt="MY SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </p>
 <hr>
 <h3 align="left">REDES SOCIAIS</h3>
