@@ -1,6 +1,6 @@
 <h3 align="left"> Olá! </h3>
 <div align="left">
-<h4>Meu nome é Guilherme Santos e sou um apaixonado por tecnologia e estou em busca de uma carreira promissora no mundo do desenvolvimento.</h4>
+<h4>Meu nome é Guilherme Santos e sou um apaixonado por tecnologia e estou em busca de uma carreira promissora no mundo do desenvolvimento e análise de Dados</h4>
 <hr>
 <h3 align="left"> SOBRE MIM </h3>
 <h4>Atualmente estou cursando Ciência da Computação e desenvolvendo alguns projetos pessoais. Minha jornada na programação começou com curiosidade e muita vontade de aprender. Desde então, venho mergulhando em projetos e desafios que me permitem expandir meus conhecimentos e habilidades.</h4>
