@@ -1,6 +1,6 @@
 <h3 align="left">Olá!</h3>
 <div align="left">
-<h4>Meu nome é Guilherme Santos e sou um apaixonado por tecnologia e estou em busca de uma carreira promissora no mundo da programção e Análise de Dados.</h4>
+<h4>Meu nome é Guilherme Santos e sou um apaixonado por tecnologia e estou em busca de uma carreira promissora no mundo da programação e Análise de Dados.</h4>
 <hr>
 <h3 align="left">SOBRE MIM</h3>
 <h4>Estou cursando Ciência da Computação e desenvolvendo alguns projetos pessoais. Minha jornada na programação começou com curiosidade e muita vontade de aprender. Desde então, venho mergulhando em projetos e desafios que me permitem expandir meus conhecimentos e habilidades. Atualmente desenvolvo pequenos e medios projetos para a empresa aonde trabalho. Estou sempre buscando conhecimento aprendendo cada dia mais e ainda quero me aventurar na area de Analise de Dados.</h4>
