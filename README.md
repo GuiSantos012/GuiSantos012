@@ -19,7 +19,7 @@
 <hr>
 <h3 align="left">REDES SOCIAIS</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/guilherme-santos-barros-b1a170245/">
+<a href="https://www.linkedin.com/in/guilherme-santos-b1a170245/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
   <a href="https://www.instagram.com/gui_santosb/">
